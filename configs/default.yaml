@@ -1,0 +1,8 @@
+audio:
+  sample_rate: 16000
+  min_seconds: 3
+  max_seconds: 10
+data:
+  n_real: 1000
+  max_clips_per_speaker: 5
+  seed: 42

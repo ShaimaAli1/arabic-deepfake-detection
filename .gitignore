@@ -218,3 +218,19 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+data/*
+!data/.gitkeep
+*.wav
+*.mp3
+*.npy
+*.pt
+*.ckpt
+# Project data and artifacts
+data/*
+!data/.gitkeep
+*.wav
+*.mp3
+*.npy
+*.pt
+*.ckpt
